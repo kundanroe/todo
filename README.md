@@ -1,1 +1,1 @@
-//creating a todo and having afake api
+//creating a todo and having a fakestore api
